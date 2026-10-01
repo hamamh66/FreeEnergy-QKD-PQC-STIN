@@ -1,5 +1,5 @@
 {
-  "elapsed_s": 704.9,
+  "elapsed_s": 750.3,
   "n_seeds": 30,
   "figures": [
     "fig10_path_and_status_switching.png",
@@ -30,6 +30,7 @@
     "comparison_method_status_summary.csv",
     "comparison_method_summary.csv",
     "nominal_seed_summary.csv",
+    "paired_method_differences.csv",
     "parameter_sensitivity.csv",
     "path_stability_summary.csv",
     "reference_allocation_decisions.csv",
@@ -37,6 +38,8 @@
     "reference_time_summary.csv",
     "scenario_method_summary.csv",
     "scenario_regime_fractions.csv",
+    "sci_auc_by_scenario.csv",
+    "sci_heldout_validation.csv",
     "sci_prospective_evaluation.csv",
     "seed_scenario_method_summary.csv",
     "seed_scenario_time_summary.csv",
