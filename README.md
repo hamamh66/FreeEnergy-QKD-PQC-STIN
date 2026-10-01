@@ -16,7 +16,7 @@ Open the notebook in Google Colab or Jupyter and run all cells. It needs Python 
 
 Outputs are written to `./Outputs/quantum_secure_comm/` (in Colab, `/content/Outputs/quantum_secure_comm/`):
 
-- `figures/`: all figures of the article (fig1–fig21).
+- `figures/`: all figures of the article (Figs. 2–22 of the article; Fig. 1 is a schematic).
 - `tables/`: all result tables as CSV (reference run, method comparison, seed and scenario summaries, ablation, sensitivity, prospective evaluation).
 - `others/`: the parameter configuration and the run manifest.
 
